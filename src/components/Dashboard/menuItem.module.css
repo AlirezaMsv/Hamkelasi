@@ -1,0 +1,22 @@
+.menuItem {
+  background-color: #f0f0f0;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  padding: 20px;
+  margin-right: 20px; /* Adjust margin as needed */
+  width: 25vh;
+  cursor: pointer;
+}
+
+.menuLogo svg {
+  width: 3em;
+  height: 3em;
+  object-fit: contain;
+  color: aqua;
+}
+
+.menuTitle {
+  margin-top: 10px;
+  text-align: center;
+  font-family: "VazirBold";
+}

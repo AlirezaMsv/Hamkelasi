@@ -1,0 +1,10 @@
+.message{
+    font-family: 'VazirBold';
+    direction: rtl;
+}
+
+.back{
+    position: absolute;
+    top: 1rem;
+    left: 1rem;
+}

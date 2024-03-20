@@ -1,0 +1,30 @@
+.informations {
+  font-family: "VazirBold";
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  direction: rtl;
+  margin-top: 0.5rem;
+}
+
+.box {
+  flex: 0 0 calc(50% - 6rem);
+  margin-bottom: -0.8rem;
+}
+
+.box p {
+  float: right;
+}
+
+.date {
+  font-family: "VazirBold";
+  background-color: aqua;
+  width: 25vh;
+  margin: auto;
+  border-radius: 10vh;
+  margin-top: 2.5rem;
+}
+
+.welcome {
+  font-family: "VazirBold";
+}
